@@ -38,7 +38,7 @@ app.get("/",(req,res)=>{
     )
     console.log(nuevalista);
     */        
-    res.json({mensaje:"Hola , soy la pagina principal"})
+    res.json({mensaje:"Hola , soy la pagina principal,Fecha 28 de octubre 2025"})
 })
 
 
